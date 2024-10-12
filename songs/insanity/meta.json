@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 160,
+	"difficulties": [
+		"hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -11969793,
+	"displayName": "Insanity",
+	"icon": "dave-annoyed",
+	"name": "insanity",
+	"color": "#495AFF"
+}

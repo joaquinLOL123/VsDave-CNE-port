@@ -1,0 +1,84 @@
+<!DOCTYPE codename-titlestate >
+<titlestate>
+	<sprites folder="menus/titlescreen">
+		<sprite name="logo" sprite="logo" x="-25" y="-50" beatInterval="2" scale="1.2" updateHitbox="true"/>
+		<sprite name="gf" sprite="gf" x="512" y="50" beatInterval="1">
+			<anim name="danceLeft" anim="gfDance" indices="30,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14" />
+			<anim name="danceRight" anim="gfDance" indices="15,16,17,18,19,20,21,22,23,24,25,26,27,28,29" />
+		</sprite>
+	</sprites>
+
+	<intro length="16">
+		<text beat="1">
+			<line text="Created by:" />
+			<line text="MoldyGH" />
+			<line text="MissingTextureMan101" />
+			<line text="Rapparep LOL" />
+		</text>
+
+		<text beat="3">
+			<line text="Created by:" />
+			<line text="MoldyGH" />
+			<line text="MissingTextureMan101" />
+			<line text="Rapparep LOL" />
+			<line text="TheBuilderXD" />
+			<line text="Erizur, T5mpler" />
+		</text>
+
+		<text beat="4">
+			<line text="Created by:" />
+			<line text="MoldyGH" />
+			<line text="MissingTextureMan101" />
+			<line text="Rapparep LOL" />
+			<line text="TheBuilderXD" />
+			<line text="Erizur, T5mpler" />
+			<line text="and our wonderful contributors!" />
+		</text>
+
+		<text beat="5" /> <!-- clears the screen !-->
+
+		<text beat="6">
+			<line text="Supernovae by ArchWk" />
+		</text>
+
+		<text beat="7">
+			<line text="Supernovae by ArchWk" />
+			<line text="Glitch by The Boneyard" />
+		</text>
+
+		<text beat="8" /> <!-- clears the screen !-->
+
+		<text beat="9">
+			<introtext line="1" />
+		</text>
+
+		<text beat="10">
+			<introtext line="1" />
+			<introtext line="2" />
+		</text>
+
+		<text beat="11"/>
+
+		<text beat="12" >
+			<line text="Friday Night Funkin'" />
+		</text>
+
+		<text beat="13" >
+			<line text="Friday Night Funkin'" />
+			<line text="VS. Dave" />
+		</text>
+
+		<text beat="14" >
+			<line text="Friday Night Funkin'" />
+			<line text="VS. Dave" />
+			<line text="and Bambi" />
+		</text>
+		<text beat="15">
+			<line text="Friday Night Funkin'" />
+			<line text="VS. Dave" />
+			<line text="and Bambi" />
+			<line text="jikken cne port" />
+		</text>
+
+	</intro>
+</titlestate>

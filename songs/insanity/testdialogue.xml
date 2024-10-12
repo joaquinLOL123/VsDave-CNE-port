@@ -1,0 +1,40 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+	<char name="boyfriend" char="boyfriend" position="right" />
+	<char name="dave" char="dave" position="left" />
+	<!-- Lines -->
+	<line char="boyfriend">
+		placeholdah.
+	</line>
+	<line char="dave" changeDefAnim="happy">
+		this is a test!
+	</line>
+	<line char="dave" changeDefAnim="happy">
+		I am happy.
+	</line>
+	<line char="dave" changeDefAnim="annoyed">
+		I am annoyed(?).
+	</line>
+	<line char="dave" changeDefAnim="erm">
+		Erm. What the sigma?
+	</line>
+	<line char="dave" changeDefAnim="furious">
+		I am furious!!!
+	</line>
+	<line char="dave" changeDefAnim="phone">
+		I am talking on the phone.
+	</line>
+	<line char="dave" changeDefAnim="scared">
+		I am scared!!!!!.
+	</line>
+	<line char="dave" changeDefAnim="pissed">
+		I am pissed.
+	</line>
+	<line char="dave" changeDefAnim="shocked">
+		I am shocked!
+	</line>
+	<line char="dave" changeDefAnim="splitathon">
+		splitathon fnf.
+	</line>
+</dialogue>

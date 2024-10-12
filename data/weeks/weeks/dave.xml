@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-week>
+<week name="Dave’s Fun Rapping Battle!" chars="none" sprite="dave" color="#4965FF" background="DaveHouse">
+	<difficulty name="hard"/>
+	<song>House</song>
+	<song>Insanity</song>
+	<song>Polygonized</song>
+</week>

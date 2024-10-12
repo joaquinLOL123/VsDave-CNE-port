@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-dialogue-character>
+<character x="-75" y="-40" textSound="dialogue/daveDialogue">
+	<anim name="normal" anim="happy" fps="0" />
+	<anim name="annoyed" anim="annoyed" fps="0" />
+	<anim name="erm" anim="erm" fps="0" />
+	<anim name="furious" anim="furious" fps="0" />
+	<anim name="phone" anim="phone" fps="0" x="125" y="80"/>
+	<anim name="scared" anim="post insanity" fps="24" loop="true"/>
+	<anim name="pissed" anim="post maze" fps="0" />
+	<anim name="shocked" anim="shocked" fps="0" />
+	<anim name="splitathon" anim="splitathon" fps="0" />
+</character>

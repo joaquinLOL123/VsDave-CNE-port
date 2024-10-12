@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 180,
+	"difficulties": [
+		"hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -11970817,
+	"displayName": "Polygonized",
+	"icon": "dave-angey",
+	"name": "polygonized",
+	"color": "#4956FF"
+}

@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/" zoom="0.8">
+	<sprite scrolly="0.6" x="-600" y="-300" sprite="shared/sky" scrollx="0.6" name="bg"/>
+	<sprite scrolly="0.7" x="-834" y="-159" sprite="dave-house/hills" scrollx="0.7" name="stageHills"/>
+	<sprite x="-1205" y="580" sprite="dave-house/grass bg" name="grassbg"/>
+	<sprite x="-755" y="250" sprite="dave-house/gate" name="gate"/>
+	<sprite x="-832" y="505" sprite="dave-house/grass" name="stageFront"/>
+	<!--note to self everytime i do character stage offsets: subtract the init character position from the dave and bambi code with the stage offset, but flip it for the dad offset-->
+	<gf x="300" y="-60"/>
+	<dad x="-50" y="-180"/>
+	<bf x="73" y="-180"/>
+	<combo/>
+</stage>

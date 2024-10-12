@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-dialogue-character>
+<character x="560" y="55" textSound="dialogue/bfDialogue">
+	<anim name="normal" anim="happy" fps="0" />
+	<anim name="ready" anim="ready" fps="0" />
+	<anim name="confused" anim="confused" fps="0" />
+	<anim name="upset" anim="upset" fps="0" />
+</character>

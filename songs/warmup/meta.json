@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 90,
+	"difficulties": [
+		"hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -16772225,
+	"displayName": "Warmup",
+	"icon": "dave",
+	"name": "warmup",
+	"color": "#00137F"
+}

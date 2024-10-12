@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" y="280" sprite="dave_sheet" icon="dave" holdTime="6.1" color="#0f5fff"> <!--for porting character positions, character init position + global offset-->
+	<anim name="idle" anim="idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="up0" x="-15" y="22" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="left0" x="2" y="14" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="right0" x="-29" y="3" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down0" x="-30" y="18" fps="24" loop="false"/>
+	<anim name="hey" anim="hey" x="8" y="11" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="up miss" x="-16" y="23" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="left miss" x="5" y="14" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="right miss" x="-40" y="1" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="down miss" x="-26" y="13" fps="24" loop="false"/>
+</character>

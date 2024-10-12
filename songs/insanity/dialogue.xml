@@ -1,0 +1,22 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default" >
+	<!-- All characters -->
+	<char name="boyfriend" char="boyfriend" position="right" />
+	<char name="dave" char="dave" position="left" />
+	<!-- Lines -->
+	<line char="dave" changeMusic="DaveDialogue">
+		Wow! you're really good at this..
+	</line>
+	<line char="boyfriend">
+		skdoo bep
+	</line>
+	<line char="dave" changeDefAnim="annoyed">
+		Hmph. Let's go again, don't you think?
+	</line>
+	<line char="boyfriend" changeDefAnim="ready">
+		Beep
+	</line>
+	<line char="dave" changeDefAnim="annoyed">
+		Alrighty then!
+	</line>
+</dialogue>

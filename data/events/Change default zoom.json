@@ -1,0 +1,14 @@
+{
+    "params": [
+        {
+            "name": "New zoom",
+            "type": "Float(-10.0, 10.0, 0.01, 2)",
+            "defaultValue": "1.0"
+        },
+        {
+            "name": "add value?",
+            "type": "Bool",
+            "defaultValue": "false"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 230,
+	"difficulties": [
+		"hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -11968513,
+	"displayName": "House",
+	"icon": "dave",
+	"name": "house",
+	"color": "#495FFF"
+}

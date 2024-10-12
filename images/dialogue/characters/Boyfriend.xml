@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Boyfriend.png" width="240" height="963">
+	<SubTexture name="confused" x="0" y="0" width="240" height="240" frameX="-238" frameY="-30" frameWidth="480" frameHeight="270"/>
+	<SubTexture name="happy" x="0" y="241" width="240" height="240" frameX="-238" frameY="-30" frameWidth="480" frameHeight="270"/>
+	<SubTexture name="ready" x="0" y="482" width="240" height="240" frameX="-238" frameY="-30" frameWidth="480" frameHeight="270"/>
+	<SubTexture name="upset" x="0" y="723" width="240" height="240" frameX="-238" frameY="-30" frameWidth="480" frameHeight="270"/>
+</TextureAtlas>

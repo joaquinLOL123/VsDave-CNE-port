@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-week>
+<week name="Dave's Funkin Class" chars="none" sprite="tutorial" color="#8A42B7" background="warmup">
+	<difficulty name="hard"/>
+	<song>Warmup</song>
+</week>
