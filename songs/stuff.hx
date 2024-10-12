@@ -1,5 +1,3 @@
-public static var stageType:Int; // 0 = normal, 1 = 3D
-
 function create() {
     switch (SONG.meta.name) {
         case "house" | "insanity" | "polygonized":

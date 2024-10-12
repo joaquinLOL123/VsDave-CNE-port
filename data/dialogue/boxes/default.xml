@@ -3,7 +3,7 @@
 	<!--
 		Node containing all text settings
 	-->
-	<text font="comicbd.ttf" x="240" y="235" width="1053" color="#000000" size="32"/>
+	<text font="comic.ttf" x="240" y="235" width="1053" color="#000000" size="32"/>
 
 	<!--
 		All positions for characters
