@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="100" y="280" sprite="dave_insanity_lol" icon="dave-annoyed" holdTime="6.1" color="#0f5fff">
+<character x="100" y="450" actualX="0" actualY="-170" sprite="dave_insanity_lol" icon="dave-annoyed" holdTime="6.1" color="#0f5fff">
 	<anim name="idle" anim="idle" x="0" y="0" fps="24" loop="false"/>
 	<anim name="singUP" anim="up" x="-14" y="22" fps="24" loop="false"/>
 	<anim name="singLEFT" anim="left" x="16" y="-3" fps="24" loop="false"/>

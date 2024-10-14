@@ -41,17 +41,8 @@ function create() {
         }
     });
 
-    threeDGF.x -= gf.x;
-    threeDGF.y -= gf.y;
-    threeDGF.visible = false;
-
-    threeDBF.x -= boyfriend.x;
-    threeDBF.y -= boyfriend.y;
-    threeDBF.visible = false;
-
-    normalDave.x -= dad.x;
-    normalDave.y -= dad.y;
-    normalDave.visible = false;
+    for (char in [threeDBF, threeDGF, normalDave])
+        char.visible = false;
 }
 
 function stepHit(curStep) {
@@ -73,23 +64,24 @@ function stepHit(curStep) {
             boyfriend.visible = true;
             gf.visible = true;
         case 2432:
-            normalDave.danceOnBeat = false;
-            boyfriend.danceOnBeat = false;
-            gf.danceOnBeat = false;
-            normalDave.visible = true;
             dad.visible = false;
-
-            normalDave.setPosition(-50, -180);
-            boyfriend.setPosition(73, -180);
+            normalDave.visible = true;
+            
+            normalDave.setPosition(50, 270);
+            boyfriend.setPosition(843, 270);
             gf.setPosition(300, -60);
+
+            normalDave.playAnim("hey", true, "LOCK"); //dave does his silly v-pose in this port :3
+            boyfriend.playAnim("hey", true, "LOCK");
+            gf.playAnim("cheer", true, "LOCK");
+
+            repositionChars([normalDave, boyfriend, gf]);
 
             iconP2.setIcon(normalDave.icon);
             var leftColor:Int = normalDave != null && normalDave.iconColor != null && Options.colorHealthBar ? normalDave.iconColor : (opponentMode ? 0xFF66FF33 : 0xFFFF0000);
 		    var rightColor:Int = boyfriend != null && boyfriend.iconColor != null && Options.colorHealthBar ? boyfriend.iconColor : (opponentMode ? 0xFFFF0000 : 0xFF66FF33); // switch the colors
             healthBar.createFilledBar(leftColor, rightColor);
 		    healthBar.updateFilledBar();
-
-
     }
 }
 
@@ -130,4 +122,3 @@ function onSongEnd() {
             setRedirectStates("StoryMenuState", "vsDave/EndingState", {ending: "bad"});
         }
 }
-

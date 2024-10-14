@@ -1,0 +1,369 @@
+{
+	"events": [
+		{
+			"params": [
+				1
+			],
+			"time": 5333.33333333333,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 10666.6666666667,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.1,
+				true
+			],
+			"time": 10666.6666666667,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 21333.3333333333,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				-0.2,
+				true
+			],
+			"time": 21333.3333333333,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 32000,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 37333.3333333333,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 42666.6666666667,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 48000,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 53333.3333333334,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.2,
+				true
+			],
+			"time": 53333.3333333334,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				1,
+				false
+			],
+			"time": 57333.3333333333,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 58666.6666666667,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.9,
+				false
+			],
+			"time": 58666.6666666667,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				1,
+				false
+			],
+			"time": 62666.6666666667,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 64000,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.7,
+				false
+			],
+			"time": 64000,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 74666.6666666667,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.1,
+				true
+			],
+			"time": 84916.6666666667,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				1.1,
+				false
+			],
+			"time": 85333.3333333333,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				1,
+				1
+			],
+			"name": "Camera Modulo Change",
+			"time": 85333.3333333333
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 90666.6666666666,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.9,
+				false
+			],
+			"time": 96000,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				4,
+				1
+			],
+			"name": "Camera Modulo Change",
+			"time": 96000
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 106666.666666667,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1.1,
+				false
+			],
+			"time": 109333.333333333,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				1,
+				1
+			],
+			"name": "Camera Modulo Change",
+			"time": 109333.333333333
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 117333.333333333,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.9,
+				false
+			],
+			"name": "Change default zoom",
+			"time": 117333.333333333
+		},
+		{
+			"params": [
+				4,
+				1
+			],
+			"name": "Camera Modulo Change",
+			"time": 117333.333333333
+		},
+		{
+			"params": [
+				-0.2,
+				true
+			],
+			"time": 122333.333333333,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				0.1,
+				true
+			],
+			"time": 122666.666666667,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 128000,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.1,
+				true
+			],
+			"time": 128000,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				-0.2,
+				true
+			],
+			"time": 133000,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				0.1,
+				true
+			],
+			"time": 133333.333333333,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 138666.666666667,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				false
+			],
+			"time": 138666.666666667,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 149333.333333333,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 160000,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 170666.666666667,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.7,
+				false
+			],
+			"time": 170666.666666667,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				0.1,
+				true
+			],
+			"time": 172000,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				-0.1,
+				true
+			],
+			"time": 178666.666666667,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				1,
+				false
+			],
+			"name": "Change default zoom",
+			"time": 181333.333333333
+		},
+		{
+			"params": [
+				0.7,
+				false
+			],
+			"name": "Change default zoom",
+			"time": 202333.333333333
+		},
+		{
+			"params": [
+				0.1,
+				true
+			],
+			"name": "Change default zoom",
+			"time": 202666.666666667
+		},
+		{
+			"params": [
+				"revertBG",
+				""
+			],
+			"time": 202666.666666667,
+			"name": "HScript Call"
+		}
+	]
+}

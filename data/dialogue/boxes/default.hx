@@ -5,7 +5,6 @@ public var bgFade:FlxSprite;
 var bgFadeIntroTween:FlxTween;
 
 function postCreate() {
-
     bgFade = new FlxSprite(-200, -200).makeSolid(Std.int(FlxG.width * 1.3), Std.int(FlxG.height * 1.3), 0xFF8A9AF5);
 	bgFade.scrollFactor.set();
 	bgFade.alpha = 0;

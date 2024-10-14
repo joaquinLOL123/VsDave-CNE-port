@@ -1,9 +1,8 @@
 var evilDave = cpu.characters[1];
 
 function postCreate() {
-    evilDave.x = dad.x;
-    evilDave.y = dad.y - 50;
     evilDave.visible = false;
+    evilDave.setPosition(dad.x - 50, dad.y);
 }
 
 

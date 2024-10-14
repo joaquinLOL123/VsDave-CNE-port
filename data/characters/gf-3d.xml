@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="350" y="-30" sprite="3d_gf" antialiasing="false" icon="gf" isGF="true">
+<character x="400" y="130" actualX="-50" actualY="-160" sprite="3d_gf" antialiasing="false" icon="gf" isGF="true">
 	<anim name="danceLeft" anim="idle" x="0" y="0" fps="24" loop="true"/>
 	<anim name="danceRight" anim="idle" x="0" y="0" fps="24" loop="true"/>
 	<anim name="sad" anim="sad" x="-5" y="5" fps="24" loop="false"/>

@@ -7,7 +7,7 @@
 	<sprite x="-832" y="505" sprite="dave-house/grass" name="stageFront"/>
 	<!--note to self everytime i do character stage offsets: subtract the init character position from the dave and bambi code with the stage offset, but flip it for the dad offset-->
 	<gf x="300" y="-60"/>
-	<dad x="-50" y="-180"/>
-	<bf x="73" y="-180"/>
+	<dad x="50" y="270"/>
+	<boyfriend x="843" y="270"/>
 	<combo/>
 </stage>

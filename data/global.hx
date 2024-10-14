@@ -1,8 +1,11 @@
 //
+import CoolerUtil;
 import funkin.backend.utils.WindowUtils;
 import lime.graphics.Image;
 import lime.utils.Assets;
 import Type;
+
+public static var CoolerUtil:CoolerUtil = new CoolerUtil();
 
 
 public static var redirectStates:Map<String, String> = []; // Base State => Mod State

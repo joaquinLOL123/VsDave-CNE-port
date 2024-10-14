@@ -4,218 +4,172 @@
 			"params": [
 				1
 			],
-			"name": "Camera Movement",
-			"time": 5333.33333333333
+			"time": 5333.33333333333,
+			"name": "Camera Movement"
 		},
 		{
 			"params": [
 				0
 			],
-			"name": "Camera Movement",
-			"time": 10666.6666666667
+			"time": 10666.6666666667,
+			"name": "Camera Movement"
 		},
 		{
 			"params": [
 				0.1,
 				true
 			],
-			"name": "Change default zoom",
-			"time": 10666.6666666667
+			"time": 10666.6666666667,
+			"name": "Change default zoom"
 		},
 		{
 			"params": [
 				1
 			],
-			"name": "Camera Movement",
-			"time": 21333.3333333333
+			"time": 21333.3333333333,
+			"name": "Camera Movement"
 		},
 		{
 			"params": [
 				-0.2,
 				true
 			],
-			"name": "Change default zoom",
-			"time": 21333.3333333333
+			"time": 21333.3333333333,
+			"name": "Change default zoom"
 		},
 		{
 			"params": [
 				0
 			],
-			"name": "Camera Movement",
-			"time": 32000
+			"time": 32000,
+			"name": "Camera Movement"
 		},
 		{
 			"params": [
 				1
 			],
-			"name": "Camera Movement",
-			"time": 37333.3333333333
+			"time": 37333.3333333333,
+			"name": "Camera Movement"
 		},
 		{
 			"params": [
 				0
 			],
-			"name": "Camera Movement",
-			"time": 42666.6666666667
+			"time": 42666.6666666667,
+			"name": "Camera Movement"
 		},
 		{
 			"params": [
 				1
 			],
-			"name": "Camera Movement",
-			"time": 48000
+			"time": 48000,
+			"name": "Camera Movement"
 		},
 		{
 			"params": [
 				0
 			],
-			"name": "Camera Movement",
-			"time": 53333.3333333334
+			"time": 53333.3333333334,
+			"name": "Camera Movement"
 		},
 		{
 			"params": [
 				0.2,
 				true
 			],
-			"name": "Change default zoom",
-			"time": 53333.3333333334
+			"time": 53333.3333333334,
+			"name": "Change default zoom"
 		},
 		{
 			"params": [
 				1,
 				false
 			],
-			"name": "Change default zoom",
-			"time": 57333.3333333333
+			"time": 57333.3333333333,
+			"name": "Change default zoom"
 		},
 		{
 			"params": [
 				1
 			],
-			"name": "Camera Movement",
-			"time": 58666.6666666667
+			"time": 58666.6666666667,
+			"name": "Camera Movement"
 		},
 		{
 			"params": [
 				0.9,
 				false
 			],
-			"name": "Change default zoom",
-			"time": 58666.6666666667
+			"time": 58666.6666666667,
+			"name": "Change default zoom"
 		},
 		{
 			"params": [
 				1,
 				false
 			],
-			"name": "Change default zoom",
-			"time": 62666.6666666667
+			"time": 62666.6666666667,
+			"name": "Change default zoom"
 		},
 		{
 			"params": [
 				0
 			],
-			"name": "Camera Movement",
-			"time": 64000
+			"time": 64000,
+			"name": "Camera Movement"
 		},
 		{
 			"params": [
 				0.7,
 				false
 			],
-			"name": "Change default zoom",
-			"time": 64000
+			"time": 64000,
+			"name": "Change default zoom"
 		},
 		{
 			"params": [
 				1
 			],
-			"name": "Camera Movement",
-			"time": 74666.6666666667
+			"time": 74666.6666666667,
+			"name": "Camera Movement"
 		},
 		{
 			"params": [
 				0.1,
 				true
 			],
-			"name": "Change default zoom",
-			"time": 84916.6666666667
+			"time": 84916.6666666667,
+			"name": "Change default zoom"
 		},
 		{
 			"params": [
 				1.1,
 				false
 			],
-			"name": "Change default zoom",
+			"time": 85333.3333333333,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				1,
+				1
+			],
+			"name": "Camera Modulo Change",
 			"time": 85333.3333333333
 		},
 		{
 			"params": [
-				1,
-				1
-			],
-			"time": 85333.3333333333,
-			"name": "Camera Modulo Change"
-		},
-		{
-			"params": [
 				0
 			],
-			"name": "Camera Movement",
-			"time": 90666.6666666666
+			"time": 90666.6666666666,
+			"name": "Camera Movement"
 		},
 		{
 			"params": [
 				0.9,
 				false
-			],
-			"name": "Change default zoom",
-			"time": 96000
-		},
-		{
-			"params": [
-				4,
-				1
 			],
 			"time": 96000,
-			"name": "Camera Modulo Change"
-		},
-		{
-			"params": [
-				1
-			],
-			"name": "Camera Movement",
-			"time": 106666.666666667
-		},
-		{
-			"params": [
-				1.1,
-				false
-			],
-			"name": "Change default zoom",
-			"time": 109333.333333333
-		},
-		{
-			"params": [
-				1,
-				1
-			],
-			"time": 109333.333333333,
-			"name": "Camera Modulo Change"
-		},
-		{
-			"params": [
-				0
-			],
-			"name": "Camera Movement",
-			"time": 117333.333333333
-		},
-		{
-			"params": [
-				0.9,
-				false
-			],
-			"time": 117333.333333333,
 			"name": "Change default zoom"
 		},
 		{
@@ -223,165 +177,184 @@
 				4,
 				1
 			],
-			"time": 117333.333333333,
-			"name": "Camera Modulo Change"
-		},
-		{
-			"params": [
-				-0.2,
-				true
-			],
-			"name": "Change default zoom",
-			"time": 122333.333333333
-		},
-		{
-			"params": [
-				0.1,
-				true
-			],
-			"name": "Change default zoom",
-			"time": 122666.666666667
+			"name": "Camera Modulo Change",
+			"time": 96000
 		},
 		{
 			"params": [
 				1
 			],
-			"name": "Camera Movement",
-			"time": 128000
+			"time": 106666.666666667,
+			"name": "Camera Movement"
 		},
 		{
 			"params": [
-				0.1,
-				true
+				1.1,
+				false
+			],
+			"time": 109333.333333333,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				1,
+				1
+			],
+			"name": "Camera Modulo Change",
+			"time": 109333.333333333
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 117333.333333333,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.9,
+				false
 			],
 			"name": "Change default zoom",
-			"time": 128000
+			"time": 117333.333333333
+		},
+		{
+			"params": [
+				4,
+				1
+			],
+			"name": "Camera Modulo Change",
+			"time": 117333.333333333
 		},
 		{
 			"params": [
 				-0.2,
 				true
 			],
-			"name": "Change default zoom",
-			"time": 133000
+			"time": 122333.333333333,
+			"name": "Change default zoom"
 		},
 		{
 			"params": [
 				0.1,
 				true
 			],
-			"name": "Change default zoom",
-			"time": 133333.333333333
+			"time": 122666.666666667,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 128000,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.1,
+				true
+			],
+			"time": 128000,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				-0.2,
+				true
+			],
+			"time": 133000,
+			"name": "Change default zoom"
+		},
+		{
+			"params": [
+				0.1,
+				true
+			],
+			"time": 133333.333333333,
+			"name": "Change default zoom"
 		},
 		{
 			"params": [
 				0
 			],
-			"name": "Camera Movement",
-			"time": 138666.666666667
+			"time": 138666.666666667,
+			"name": "Camera Movement"
 		},
 		{
 			"params": [
 				1,
 				false
 			],
-			"name": "Change default zoom",
-			"time": 138666.666666667
+			"time": 138666.666666667,
+			"name": "Change default zoom"
 		},
 		{
 			"params": [
 				1
 			],
-			"name": "Camera Movement",
-			"time": 149333.333333333
+			"time": 149333.333333333,
+			"name": "Camera Movement"
 		},
 		{
 			"params": [
 				0
 			],
-			"name": "Camera Movement",
-			"time": 160000
+			"time": 160000,
+			"name": "Camera Movement"
 		},
 		{
 			"params": [
 				1
 			],
-			"name": "Camera Movement",
-			"time": 170666.666666667
+			"time": 170666.666666667,
+			"name": "Camera Movement"
 		},
 		{
 			"params": [
 				0.7,
 				false
 			],
-			"name": "Change default zoom",
-			"time": 170666.666666667
+			"time": 170666.666666667,
+			"name": "Change default zoom"
 		},
 		{
 			"params": [
 				0.1,
 				true
 			],
-			"name": "Change default zoom",
-			"time": 172000
+			"time": 172000,
+			"name": "Change default zoom"
 		},
 		{
 			"params": [
 				-0.1,
 				true
 			],
-			"name": "Change default zoom",
-			"time": 178666.666666667
+			"time": 178666.666666667,
+			"name": "Change default zoom"
 		},
 		{
 			"params": [
 				1,
 				false
 			],
-			"time": 181333.333333333,
-			"name": "Change default zoom"
+			"name": "Change default zoom",
+			"time": 181333.333333333
 		},
 		{
 			"params": [
 				0.7,
 				false
 			],
-			"time": 202333.333333333,
-			"name": "Change default zoom"
+			"name": "Change default zoom",
+			"time": 202333.333333333
 		},
 		{
 			"params": [
 				0.1,
 				true
 			],
-			"time": 202666.666666667,
-			"name": "Change default zoom"
-		},
-		{
-			"params": [
-				2,
-				"cheer",
-				true
-			],
-			"name": "Play Animation",
-			"time": 202666.666666667
-		},
-		{
-			"params": [
-				0,
-				"hey",
-				true
-			],
-			"name": "Play Animation",
-			"time": 202666.666666667
-		},
-		{
-			"params": [
-				1,
-				"hey",
-				true
-			],
-			"name": "Play Animation",
+			"name": "Change default zoom",
 			"time": 202666.666666667
 		},
 		{
@@ -389,15 +362,14 @@
 				"revertBG",
 				""
 			],
-			"name": "HScript Call",
-			"time": 202666.666666667
+			"time": 202666.666666667,
+			"name": "HScript Call"
 		}
 	],
 	"scrollSpeed": 3,
+	"codenameChart": true,
 	"strumLines": [
 		{
-			"strumScale": 1,
-			"position": "dad",
 			"notes": [
 				{
 					"id": 2,
@@ -5242,20 +5214,24 @@
 					"type": 1
 				}
 			],
+			"position": "dad",
+			"strumScale": 1,
+			"visible": true,
+			"type": 0,
 			"characters": [
 				"dave-angey",
 				"dave"
 			],
-			"type": 0,
-			"visible": true,
 			"strumPos": [
 				0,
 				50
 			],
-			"vocalsSuffix": "",
-			"strumLinePos": 0.25
+			"strumLinePos": 0.25,
+			"vocalsSuffix": ""
 		},
 		{
+			"strumScale": 1,
+			"position": "boyfriend",
 			"notes": [
 				{
 					"id": 1,
@@ -10226,40 +10202,37 @@
 					"type": 0
 				}
 			],
-			"position": "boyfriend",
-			"strumScale": 1,
-			"visible": true,
-			"type": 1,
 			"characters": [
 				"bf",
 				"bf-3d"
 			],
+			"type": 1,
+			"visible": true,
 			"strumPos": [
 				0,
 				50
 			],
-			"strumLinePos": 0.75,
-			"vocalsSuffix": ""
+			"vocalsSuffix": "",
+			"strumLinePos": 0.75
 		},
 		{
-			"notes": [],
-			"position": "girlfriend",
 			"strumScale": 1,
-			"visible": false,
-			"type": 2,
+			"position": "girlfriend",
+			"notes": [],
 			"characters": [
 				"gf",
 				"gf-3d"
 			],
+			"type": 2,
+			"visible": false,
 			"strumPos": [
 				0,
 				50
 			],
-			"strumLinePos": 0.25,
-			"vocalsSuffix": ""
+			"vocalsSuffix": "",
+			"strumLinePos": 0.25
 		}
 	],
-	"codenameChart": true,
 	"stage": "red-void",
 	"noteTypes": [
 		"shape",

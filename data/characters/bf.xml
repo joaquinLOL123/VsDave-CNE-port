@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character isPlayer="true" flipX="true" x="770" y="450" threeD="false" color="#31B0D1"> <!--because bf has different positions in dave and bambi for god knows what reason-->
+<character isPlayer="true" flipX="true" x="770" y="450" actualX="0" actualY="0" threeD="false" color="#31B0D1"> <!--because bf has different positions in dave and bambi for god knows what reason-->
 	<anim name="idle"          anim="BF idle dance"      fps="24" loop="false" x="-5"  y="0"/>
 	<anim name="singUP"        anim="BF NOTE UP0"        fps="24" loop="false" x="-29" y="27"/>
 	<anim name="singLEFT"      anim="BF NOTE LEFT0"      fps="24" loop="false" x="12"  y="-6"/>

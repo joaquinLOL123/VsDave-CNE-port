@@ -1,12 +1,7 @@
 //
-function create() {
-    var oldColor:Int;
-    animation.callback = function(name) {
-        switch (name) {
-            case "singLEFTmiss" | "singDOWNmiss" | "singUPmiss" | "singRIGHTmiss":
-                color = 0xFF000084;
-            default:
-                color = FlxColor.WHITE;
-        }
-    };
+function onPlayAnim(event) {
+    if (event.context == "MISS")
+        color = 0xFF000084;
+    else
+        color = FlxColor.WHITE;
 }

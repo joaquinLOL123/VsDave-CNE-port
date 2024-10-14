@@ -4,9 +4,6 @@ import flixel.text.FlxTextAlign;
 import flixel.text.FlxTextBorderStyle;
 import flixel.text.FlxTextFormat;
 import funkin.menus.credits.CreditsMain;
-import Xml;
-
-//very WIP!!!
 
 var xml:Xml;
 
@@ -109,7 +106,7 @@ function parseXML() {
     for (node in xml.elements()) {
         if (node.nodeName == "section") {
             var currentInSection = 0;
-            var title:CreditText = new CreditText(0, 0, getAtt(node, "name"), getAtt(node, "icon"), true);
+            var title:CreditText = new CreditText(0, 0, CoolerUtil.getXMLAtt(node, "name"), CoolerUtil.getXMLAtt(node, "icon"), true);
             title.group.screenCenter(FlxAxes.X);
 
             add(title.group);
@@ -121,9 +118,10 @@ function parseXML() {
             }
 
             current++;
+            trace("WAOW");
 
             for (person in node.elements()) {
-                var text:CreditText = new CreditText(0, 0, getAtt(person, "name"), getAtt(person, "icon"), false);
+                var text:CreditText = new CreditText(0, 0, CoolerUtil.getXMLAtt(person, "name"), CoolerUtil.getXMLAtt(person, "icon"), false);
                 text.group.screenCenter(FlxAxes.X);
 
                 add(text.group);
@@ -134,24 +132,22 @@ function parseXML() {
                 var dataMap:Map<String, Dynamic> = [];
 
                 for (att in person.attributes())
-                        dataMap.set(att, getAtt(person, att));
+                        dataMap.set(att, CoolerUtil.getXMLAtt(person, att));
                 dataMap.set("socials", [
                     for (social in person.elements())
-                        [getAtt(social, "type"), getAtt(social, "link")]
+                        [CoolerUtil.getXMLAtt(social, "type"), CoolerUtil.getXMLAtt(social, "link")]
                 ]);
 
-                creditData.set(getAtt(person, "name"), dataMap);
+                creditData.set(CoolerUtil.getXMLAtt(person, "name"), dataMap);
 
                 currentInSection++;
+                
+                trace(currentInSection);
             }
 
             current += currentInSection;
         } 
     }
-}
-
-function getAtt(node:Xml, att:String) {
-    return node.exists(att) ? node.get(att) : null;
 }
 
 class CreditText extends flixel.FlxBasic {
