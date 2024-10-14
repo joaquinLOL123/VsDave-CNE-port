@@ -1,0 +1,213 @@
+<!DOCTYPE dave-and-bambi-credits> <!-- just a concept, will implement tomorrow hopefully--> 
+<!--please do notify me if i accidentally included any bad/problematic people from the og credits menu here.-->
+<!--converting the credits into this format manually is painful-->
+<section name="Developers" icon="titles/Developers">
+
+	<person name="MoldyGH" icon="people/Developers/MoldyGH" desc="Director, Creator, Programmer, Musician, Main Developer">
+		<social type="youtube" link="https://www.youtube.com/channel/UCHIvkOUDfbMCv-BEIPGgpmA" />
+		<social type="twitter" link="https://twitter.com/moldy_gh" />
+		<social type="soundcloud" link="https://soundcloud.com/moldygh" />
+		
+	</person>
+	<person name="MissingTextureMan101" icon="people/Developers/MissingTextureMan101" desc="Secondary Developer and Programmer">
+		<social type="youtube" link="https://www.youtube.com/channel/UCCJna2KG54d1604L2lhZINQ" />
+		<social type="twitter" link="https://twitter.com/OfficialMTM101" />
+		<social type="twitch" link="https://www.twitch.tv/missingtextureman101" />
+		<social type="gamebanana" link="https://gamebanana.com/members/1665049" />
+	</person>
+	<person name="Rapparep lol" icon="people/Developers/rapparep lol" desc="Main Artist">
+		<social type="youtube" link="https://www.youtube.com/channel/UCKfdkmcdFftv4pFWr0Bh45A" />
+		<social type="twitter" link="https://twitter.com/rappareplol" />
+	</person>
+	<person name="TheBuilderXD" icon="people/Developers/TheBuilderXD" desc="Main Artist">
+		<social type="youtube" link="https://www.youtube.com/user/99percentMember" />
+		<social type="twitter" link="https://twitter.com/TheBuilderXD" />
+	</person>
+	<person name="Erizur" icon="people/Developers/Erizur" desc="New Main Menu Programmer, Artist & Spanish Translator">
+		<social type="youtube" link="https://www.youtube.com/channel/UCdCAaQzt9yOGfFM0gJDJ4bQ" />
+		<social type="twitter" link="https://twitter.com/am_erizur" />
+	</person>
+	<person name="T5mpler" icon="people/Developers/T5mpler" desc="Programmer & Assistor">
+		<social type="youtube" link="https://www.youtube.com/channel/UCgNoOsE_NDjH6ac4umyADrw" />
+		<social type="twitter" link="https://twitter.com/RealT5mpler" />
+		<social type="soundcloud" link="https://soundcloud.com/t5mpler" />
+	</person>
+	<person name="Zmac" icon="people/Developers/Zmac" desc="3D Backgrounds, Intro text help">
+		<social type="youtube" link="https://www.youtube.com/channel/UCl50Xru1nLBENuLiQBt6VRg" />
+	</person>
+	<person name="Pointy" icon="people/Developers/pointy" desc="Artist & Charter">
+		<social type="youtube" link="https://www.youtube.com/channel/UCRKMTB-VvZlXig4gChk5jtg" />
+		<social type="twitter" link="https://twitter.com/PointyyESM" />
+	</person>
+	<person name="Billy Bobbo" icon="people/Developers/Billy Bobbo" desc="Moral Support & Idea Suggesting">
+		<social type="youtube" link="https://www.youtube.com/channel/UCWbxUPrpRb3lWFHULkmR0IQ" />
+		<social type="twitter" link="https://twitter.com/BillyBobboLOL" />
+	</person>
+</section>
+
+<section name="Translators" icon="titles/Translators">
+	<person name="Dani" icon="people/Translators/dani" desc="Spanish Translator">
+		<social type="youtube" link="https://youtube.com/channel/UCzCcYbUwbtSJcAQH0IZl-pA" />
+	</person>
+	<person name="Aizakku" icon="people/Translators/Aizakku" desc="Portguese-Brazillian Translator">
+		<social type="youtube" link="https://www.youtube.com/channel/UCmSCR85PlhbHGHm-wxiA6sA" />
+		<social type="twitter" link="https://twitter.com/ItsAizakku" />
+	</person>
+	<person name="Soulegal" icon="people/Translators/Soulegal" desc="Portguese-Brazillian Translator">
+		<social type="youtube" link="https://www.youtube.com/channel/UC7VSf4ITAMN83hL3zQbqt3w" />
+		<social type="twitter" link="https://twitter.com/nickstwt" />
+	</person>
+</section>
+
+<section name="Contributors" icon="titles/Contributors">
+	<person name="Steph45" icon="people/Contributors/Steph45" desc="Minor programming">
+		<social type="youtube" link="https://www.youtube.com/channel/UClb4YjR8i74G-ue2nyiH2DQ" />
+	</person>
+	<person name="Evdial" icon="people/Contributors/evdial" desc="Bambi Week Main Artist" />
+	<person name="Wugalex" icon="people/Contributors/wugalex" desc="BG Artist" />
+	<person name="Jukebox" icon="people/Contributors/Jukebox" desc="BG Artist">
+		<social type="youtube" link="https://www.youtube.com/channel/UCwA3jnG5cu3toaVCOhc-Tqw" />
+	</person>
+	<person name="Oxygen/Cyrus" icon="people/Contributors/Oxygen" desc="Composer">
+		<social type="youtube" link="https://youtube.com/channel/UCgTW7cQcfqduIqlu-bSZGZg" />
+		<social type="twitter" link="https://twitter.com/oxygenboi2000" />
+		<social type="soundcloud" link="https://soundcloud.com/cyrusfire" />
+	</person>
+	<person name="Alexander Cooper 19" icon="people/Contributors/Alexander Cooper 19" desc="Composer, Charter">
+		<social type="youtube" link="https://www.youtube.com/channel/UCNz20AHJq41rkBUsq8RmUfQ" />
+	</person>
+	<person name="Aadsta" icon="people/Contributors/Aadsta" desc="former Composer and BG Artist (?)">
+		<social type="twitter" link="https://twitter.com/FullNameDeTrain" />
+	</person>
+	<person name="Top 10 Awesome" icon="people/Contributors/Top 10 Awesome" desc="Composer, Funny Guy">
+		<social type="youtube" link="https://www.youtube.com/c/Top10Awesome" />
+	</person>
+	<person name="Sky!" icon="people/Contributors/Sky!" desc="Made Bambi Voice Bank Used in the New Bambi Songs Made By Moldy">
+		<social type="youtube" link="https://www.youtube.com/@SkyFactorial" />
+	</person>
+	<person name="Ruby" icon="people/Contributors/Ruby" desc="Adventure Song">
+		<social type="youtube" link="https://youtube.com/c/RubysArt_" />
+		<social type="twitter" link="https://youtube.com/c/RubysArt_" />
+	</person>
+	<person name="Lancey" icon="people/Contributors/Lancey" desc="Adventure Song">
+		<social type="youtube" link="https://youtube.com/c/Lancey170" />
+		<social type="twitter" link="https://twitter.com/Lancey170" />
+	</person>
+	<person name="Cup" icon="people/Contributors/Cup" desc="Made the song headings">
+		<social type="youtube" link="https://youtube.com/channel/UCEeVFDTzxe2K8dMng_7YU7A" />
+	</person>
+	<person name="ShiftyTM" icon="people/Contributors/ShiftyTM" desc="Made Tuned Bambi chromatic used in Maze & Indignancy">
+		<social type="youtube" link="https://youtube.com/channel/UC8NHfjpy6tNWgnM7889S1Ew" />
+	</person>
+	<person name="Paraso" icon="people/Contributors/Paraso" desc="Menu BG Artist"/>
+	<person name="SAMMYPIGZY" icon="people/Contributors/SAMMYPIGZY" desc="Artist"/>
+	<person name="Devianator" icon="people/Contributors/Devianator" desc="Help with Credits icons">
+		<social type="youtube" link="https://www.youtube.com/channel/UCcaYOWO98UIsJ54t_aV6JHw" />
+		<social type="twitter" link="https://twitter.com/devianator404" />
+	</person>
+	<person name="Sk0rbias" icon="people/Contributors/sk0rbias" desc="Menu Artist">
+		<social type="youtube" link="https://www.youtube.com/channel/UCTz8DmuC85UN_nspzp3d_VA" />
+		<social type="twitter" link="https://twitter.com/sk0rbias" />
+	</person>
+	<person name="Your mom" icon="people/Contributors/Your mom" desc="Composed Vs Dave Rap, totally.">
+		<social type="youtube" link="https://www.youtube.com/channel/UCeYxPL7ClfwXOOrpbtqJ13g" />
+	</person>
+	<person name="Sibottle" icon="people/Contributors/sibottle" desc="Composer">
+		<social type="youtube" link="https://www.youtube.com/channel/UCqFkjwmaYlnVXwLMw3_AXLA" />
+	</person>
+	<person name="Chromasen" icon="people/Contributors/chromasen" desc="Help with window code">
+		<social type="youtube" link="https://www.youtube.com/channel/UCgGk4oZt3We-ktkEOV9HY1Q" />
+	</person>
+</section>
+
+<section name="Beta Testers" icon="titles/Beta Testers">
+	<person name="letsy" icon="people/Beta Testers/letsy" desc="Beta Tester">
+		<social type="youtube" link="https://www.youtube.com/channel/UCPsNWR6RYLRvpDZinADtJ8w" />
+		<social type="twitter" link="https://twitter.com/Iesty19" />
+		<social type="discord" link="ietsy" />
+	</person>
+	<person name="Wildy" icon="people/Beta Testers/wildy" desc="Beta Tester">
+		<social type="youtube" link="https://www.youtube.com/channel/UCrUhQeLDv7lpZifWfPr4uGQ" />
+		<social type="twitter" link="https://twitter.com/wildythomas1233" />
+	</person>
+	<person name="Peejeada" icon="people/Beta Testers/peejeada" desc="Beta Tester & Supporter">
+		<social type="twitter" link="https://twitter.com/tailsmaster1" />
+	</person>
+	<person name="Bendygaming_1" icon="people/Beta Testers/bendygaming_1" desc="Beta Tester, Moldy super awesome brother">
+		<social type="youtube" link="https://www.youtube.com/channel/UCDgAtfpjDW1F2LAk6LzgavA" />
+	</person>
+	<person name="YourAverageMental" icon="people/Beta Testers/YourAverageMental" desc="Beta Tester">
+		<social type="youtube" link="https://www.youtube.com/channel/UCDgAtfpjDW1F2LAk6LzgavA" />
+	</person>
+	<person name="Vex" icon="people/Beta Testers/vex" desc="Beta Tester">
+		<social type="twitter" link="https://twitter.com/vex________" />
+	</person>
+	<person name="Xml" icon="people/Beta Testers/xml" desc="Beta Tester">
+		<social type="youtube" link="https://www.youtube.com/channel/UCL5UPJDEFDZLo4D62pcmIBQ" />
+	</person>
+	<person name="Ztgds" icon="people/Beta Testers/ztgds" desc="Minor programming help, Beta Tester">
+		<social type="youtube" link="https://www.youtube.com/channel/UCUmuZE0RPjvUhB036T6omfQ" />
+	</person>
+	<person name="Ashtonyes" icon="people/Beta Testers/ashtonyes" desc="Beta Tester">
+		<social type="youtube" link="https://www.youtube.com/channel/UCQkB-JEx7OGdOUxPzcgUkkQ" />
+		<social type="gamebanana" link="https://gamebanana.com/members/1943292" />
+	</person>
+	<person name="Silver Escaper" icon="people/Beta Testers/Silver Escaper" desc="Beta Tester">
+		<social type="youtube" link="https://www.youtube.com/channel/UCP9McVE9T5K3pzum48-m6Tg" />
+		<social type="roblox" link="https://www.roblox.com/users/2546405173/profile" />
+		<social type="discord" link="silverescaper" />
+	</person>
+	<person name="TrustVVorthy" icon="people/Beta Testers/TrustVVorthy" desc="Beta Tester">
+		<social type="youtube" link="https://www.youtube.com/channel/UC_lJmvYgeAwzcYaeYXlZ7vg" />
+	</person>
+	<person name="Gorbini" icon="people/Beta Testers/Gorbini" desc="Beta Tester">
+		<social type="youtube" link="https://www.youtube.com/channel/UC1u46mYMoecfO04dm-9Djjg" />
+	</person>
+	<person name="Log Man" icon="people/Beta Testers/Log Man" desc="Beta Tester">
+		<social type="youtube" link="https://www.youtube.com/channel/UCnGg-cLnXuQNfSzIq6xF8hw" />
+	</person>
+	<person name="Mooncakeez" icon="people/Beta Testers/Mooncakeez" desc="Beta Tester">
+		<social type="youtube" link="https://www.youtube.com/channel/UC6lOrY3AkmXWFpaLHwlP-5A" />
+	</person>
+	<person name="Foxnap" icon="people/Beta Testers/Foxnap" desc="Beta Tester">
+		<social type="youtube" link="https://www.youtube.com/channel/UCFMq8C3d6QvZlzR8vBBnITg" />
+		<social type="twitter" link="https://twitter.com/foxnaphere" />
+	</person>
+	<person name="Lotuswaterz/RUKA" icon="people/Beta Testers/nihilistt" desc="Beta Tester">
+		<social type="youtube" link="https://www.youtube.com/channel/UCf0Y-SfRxhrVnggHwwz1CnA" />
+	</person>
+	<person name="mantis" icon="people/Beta Testers/mantis" desc="Beta Tester">
+		<social type="discord" link="retrograde_osz (?)" />
+	</person>
+	<person name="ArturSef" icon="people/Beta Testers/ArturSef" desc="Beta Tester">
+		<social type="gamebanana" link="https://gamebanana.com/members/1766076" />
+	</person>
+	<person name="Normal" icon="people/Beta Testers/normal" desc="Beta Tester">
+		<social type="youtube" link="https://www.youtube.com/channel/UC21TRNz6llg8a6-ur4dSBtw" />
+		<social type="roblox" link="https://www.roblox.com/users/1368920745" />
+	</person>
+	<person name="Rendurse" icon="people/Beta Testers/Rendurse" desc="Beta Tester">
+		<social type="twitter" link="https://twitter.com/RendurseDev" />
+	</person>
+	<person name="Lordryan1999" icon="people/Beta Testers/Lordryan1999" desc="Beta Tester">
+		<social type="youtube" link="https://www.youtube.com/channel/UCEdSlV8RvVnEd8w_yQz-Feg" />
+	</person>
+	<person name="Villezen" icon="people/placeholder" desc="Beta Tester">
+		<social type="youtube" link="https://www.youtube.com/c/Villezen" />
+	</person>
+	<person name="TecheVent" icon="people/Beta Testers/TecheVent" desc="Beta Tester">
+		<social type="twitter" link="https://x.com/techeventRBX" />
+	</person>
+	<person name="Miko" icon="people/Beta Testers/miko" desc="Beta Tester">
+		<social type="youtube" link="https://www.youtube.com/channel/UC3mIybwSekVs5VEJSe2yjog" />
+	</person>
+	<person name="Cotiles" icon="people/Beta Testers/Cotiles" desc="Beta Tester">
+		<social type="youtube" link="https://www.youtube.com/channel/UClNnrTqtgzAQ16w4_eC7rwA" />
+		<social type="twitter" link="https://x.com/Coootiles" />
+	</person>
+</section>
+
+<section name="Special Thanks" icon="titles/Special Thanks">
+	<person name="You!" icon="people/You!" desc="For playing the mod and \ncontributing to the growth of the community we created."/>
+</section>
+
