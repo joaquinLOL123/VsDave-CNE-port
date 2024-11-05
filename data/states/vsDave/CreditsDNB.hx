@@ -4,6 +4,7 @@ import flixel.text.FlxTextAlign;
 import flixel.text.FlxTextBorderStyle;
 import flixel.text.FlxTextFormat;
 import funkin.menus.credits.CreditsMain;
+import Xml;
 
 var xml:Xml;
 
