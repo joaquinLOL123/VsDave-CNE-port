@@ -3,7 +3,8 @@ function create() {
     var out = newState != null;
 
     transitionTween.cancel();
-    transitionCamera.addShader(new CustomShader("DitherShader"));
+    if (FlxG.save.data.transDither)
+        transitionCamera.addShader(new CustomShader("DitherShader"));
     //shader lags the everliving shit out of the game, oh well.
 
     blackSpr.setPosition(out ? -transitionCamera.width : transitionCamera.width * 2, 0);
