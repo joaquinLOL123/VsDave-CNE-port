@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 105,
+	"difficulties": [
+		"hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -16730859,
+	"displayName": "Corn Theft",
+	"icon": "bambi",
+	"name": "corn-theft",
+	"color": "#00B515",
+	"customValues": {}
+}

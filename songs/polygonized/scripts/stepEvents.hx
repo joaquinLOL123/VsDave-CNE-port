@@ -10,13 +10,6 @@ var normalDave = cpu.characters[1];
 function create() {
     importScript("data/scripts/redirectUtil");
 
-    pulseShader = new CustomShader("pulseShader");
-    pulseShader.uWaveAmplitude = 0.5;
-    pulseShader.uFrequency = 1.0;
-    pulseShader.uSpeed = 1.0;
-    pulseShader.uampmul = 0.0;
-    camGame.addShader(pulseShader);
-
     shapeNoteWarning = new FlxSprite(0, FlxG.height * 2).loadGraphic(Paths.image("game/shapeNoteWarning"));
     shapeNoteWarning.cameras = [camHUD];
     shapeNoteWarning.antialiasing = false;
@@ -43,6 +36,15 @@ function create() {
 
     for (char in [threeDBF, threeDGF, normalDave])
         char.visible = false;
+
+    if (FlxG.save.data.eyesores && Options.gameplayShaders) {
+        pulseShader = new CustomShader("pulseShader");
+        pulseShader.uWaveAmplitude = 0.5;
+        pulseShader.uFrequency = 1.0;
+        pulseShader.uSpeed = 1.0;
+        pulseShader.uampmul = 0.0;
+        camGame.addShader(pulseShader);
+    }
 }
 
 function stepHit(curStep) {
@@ -87,38 +89,38 @@ function stepHit(curStep) {
 
 var time:Float = FlxG.random.float(-100000, 100000);
 function update(elapsed) {
-    time += elapsed;
+    if (FlxG.save.data.eyesores && Options.gameplayShaders) {
+        time += elapsed;
 
-    if (shakeCam) {
-        FlxG.camera.shake(0.010, 0.010);
-        pulseShader.uampmul = 1.0;
-    } else {
-        pulseShader.uampmul -= (elapsed / 2);
+        if (shakeCam) {
+            FlxG.camera.shake(0.010, 0.010);
+            pulseShader.uampmul = 1.0;
+        } else {
+            pulseShader.uampmul -= (elapsed / 2);
+        }
+
+        pulseShader.hset("uTime", time);
     }
-
-    pulseShader.hset("uTime", time);
 }
 
 function onGameOver(event) {
-    pulseShader.uampmul = 0;
-
     if (shakeCam) {
         event.cancel();
         FlxG.switchState(new ModState("vsDave/EndingState", {ending: "rtx"}));
     }
+
+    if (FlxG.save.data.eyesores && Options.gameplayShaders)
+        pulseShader.uampmul = 0;
 }
 
 function onSongEnd() {
     if (PlayState.isStoryMode)
         if (health >= 1) {
-        
             setRedirectStates("StoryMenuState", "vsDave/EndingState", {ending: "good"});
         } else if (health < 0.1) {
             //CharacterSelectState.unlockCharacter('dave-angey');
             setRedirectStates("StoryMenuState", "vsDave/EndingState", {ending: "worst"});
-        }
-        else
-        {
+        } else {
             setRedirectStates("StoryMenuState", "vsDave/EndingState", {ending: "bad"});
         }
 }

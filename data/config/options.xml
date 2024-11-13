@@ -1,0 +1,9 @@
+<!DOCTYPE codename-mod-options>
+<!-- TEMPLATE FOR CUSTOM OPTIONS!!! -->
+<menu name="Vs Dave CNE" desc="Insert description here">
+	<menu name="Config shaders" desc="Menu of shaders you can disable as you wish to improve performance">
+        <checkbox id="transDither" name="Transition dither" desc="dithering on state transition"/>
+        <checkbox id="eyesores" name="Polygonized eyesore" desc="Polygonized eyesore effect"/>
+        <checkbox id="blockedGlitch" name="Blocked Glitch" desc="Blocked Glitching effect"/>
+    </menu>
+</menu>

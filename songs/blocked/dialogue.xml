@@ -1,0 +1,53 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+	<char name="boyfriend" char="boyfriend" position="right" />
+	<char name="gf" char="gf" position="right" />
+	<char name="bambi" char="bambi" position="left" />
+	<!-- Lines -->
+	<line char="gf" changeMusic="DaveDialogue">
+		What a nice guy that Dave is for inviting us to 
+		this farm for a picnic.
+	</line>
+	<line char="gf">
+		I say this makes up for him almost killing us 
+		with that whole 3D thing.
+	</line>
+	<line char="boyfriend">
+		Skibbidy. <!--AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-->
+	</line>
+	<line char="gf">
+		I sure do hope no midget farmer with one short 
+		of a temper stumbles apon us!
+	</line>
+	<line char="gf">
+		Especially one with the presumption that we 
+		were stealing their corn...
+	</line>
+	<line char="bambi" changeDefAnim="annoyed">
+		Who goes there??
+	</line>
+	<line char="boyfriend" changeDefAnim="confused">
+		Beep?
+	</line>
+	<line char="gf" changeDefAnim="what">
+		Shit.
+	</line>
+	<line char="bambi">
+		Hey! Are you trying to steal my corn?
+	</line>
+	<line char="boyfriend">
+		Bo beep ber-
+	</line>
+	<line char="bambi">
+		I GONNA BLOCK YOU OUT OF MY FARM! You 
+		never coming back ever again you dirty ole' 
+		rodeo trash.
+	</line>
+	<line char="boyfriend">
+		Bop?
+	</line>
+	<line char="gf">
+		Just get on with it Boyfriend.
+	</line>
+</dialogue>

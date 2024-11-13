@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" y="450" actualX="0" actualY="-170" sprite="Dave_Dead" isPlayer="true" icon="dave-dead" color="#31B0D1">
+	<anim name="firstDeath" anim="dave dead hit" x="0" y="0" fps="24" loop="false"/>
+	<anim name="deathLoop" anim="dave dead loop" x="-26" y="0" fps="24" loop="false"/>
+	<anim name="deathConfirm" anim="dave dead retry confirm" x="-25" y="0" fps="24" loop="false"/>
+</character>

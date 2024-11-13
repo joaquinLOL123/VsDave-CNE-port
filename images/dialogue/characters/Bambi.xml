@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Bambi.png" width="231" height="794">
+	<SubTexture name="annoyed" x="0" y="0" width="231" height="264" frameX="-0" frameY="-0" frameWidth="231" frameHeight="264"/>
+	<SubTexture name="normal" x="0" y="265" width="231" height="264" frameX="-0" frameY="-0" frameWidth="231" frameHeight="264"/>
+	<SubTexture name="upset" x="0" y="530" width="231" height="264" frameX="-0" frameY="-0" frameWidth="231" frameHeight="264"/>
+</TextureAtlas>

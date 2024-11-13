@@ -3,12 +3,11 @@
 
 public static function repositionChars(chars:Array<Character>):Void {
     for (char in chars) {
-        trace(char.curCharacter);
-        var actualX = Std.parseInt(CoolerUtil.getXMLAtt(char.xml, "actualX"));
-        var actualY = Std.parseInt(CoolerUtil.getXMLAtt(char.xml, "actualY"));
+        var actualX = char.extra["actualX"];
+        var actualY = char.extra["actualY"];
 
-        char.x += -(actualX * (char.isPlayer != char.playerOffsets ? 1 : -1) + char.globalOffset.x) * (char.isPlayer != char.playerOffsets ? -1 : 1);
-        char.y += -(-actualY + char.globalOffset.y);
+        char.x += (char.globalOffset.x - actualX) * (char.isPlayer != char.playerOffsets ? 1 : -1);
+        char.y += -(char.globalOffset.y - actualY);
     }
 }
 

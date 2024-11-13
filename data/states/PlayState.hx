@@ -1,6 +1,8 @@
 //
 import flixel.text.FlxTextAlign;
 import flixel.text.FlxTextBorderStyle;
+import funkin.backend.scripting.events.EventManager;
+import funkin.backend.scripting.events.StateEvent;
 
 public var songWatermark:FunkinText;
 
@@ -12,8 +14,8 @@ function postCreate() {
     }
     accuracyTxt.x -= 60;
     scoreTxt.x += 60;
-    //adjust the texts
 
+    //adjust the texts
     songWatermark = new FunkinText(4, healthBarBG.y + 50, 0, PlayState.SONG.meta.displayName, 16);
 
     songWatermark.setFormat(Paths.font("comic.ttf"), 16, FlxColor.WHITE, FlxTextAlign.CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
@@ -23,7 +25,8 @@ function postCreate() {
 
     remove(healthBar);
     insert(members.indexOf(healthBarBG), healthBar);
+
+    //vs dave cam lerp
+    camGameZoomLerp = 0.095;
+    camHUDZoomLerp = 0.095; 
 }
-
-
-

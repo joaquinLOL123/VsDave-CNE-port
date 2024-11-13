@@ -20,7 +20,6 @@ function create() {
 }
 
 var time:Float = 0.0;
-
 function update(elapsed) {
     time += elapsed;
     glitchShader.hset("uTime", time);

@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" y="450" sprite="bambi" icon="bambi" color="#25BF37" gameOverChar="dave-dead" holdTime="6.1" actualX="37" actualY="90">
+	<anim name="idle" anim="bambi idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="bambi up" x="55" y="36" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="bambi left" x="70" y="6" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="bambi right" x="-16" y="8" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="bambi down" x="22" y="-28" fps="24" loop="false"/>
+	<anim name="hey" anim="bambi look" x="2" y="8" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="miss up" x="66" y="34" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="miss left" x="66" y="19" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="miss right" x="6" y="16" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="miss down" x="27" y="2" fps="24" loop="false"/>
+	<anim name="break phone" anim="bambi idiot" x="135" y="85" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="bambi alt left" x="24" y="4" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="bambi alt right" x="20" y="10" fps="24" loop="false"/>
+	<anim name="smash" anim="bambi phone" x="98" y="81" fps="24" loop="false"/>
+	<anim name="attack" anim="bambi throw" x="37" y="23" fps="24" loop="false"/>
+</character>

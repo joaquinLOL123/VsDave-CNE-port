@@ -2,6 +2,7 @@
 import flixel.text.FlxTextBorderStyle;
 
 public var bgFade:FlxSprite;
+
 var bgFadeIntroTween:FlxTween;
 
 function postCreate() {
