@@ -5,3 +5,4 @@ insanity
 polygonized
 blocked
 corn-theft
+maze
