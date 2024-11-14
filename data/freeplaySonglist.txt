@@ -4,5 +4,5 @@ house
 insanity
 polygonized
 blocked
-corn-theft
+corn theft
 maze

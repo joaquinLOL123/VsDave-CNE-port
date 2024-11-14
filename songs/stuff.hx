@@ -6,7 +6,7 @@ function create() {
     switch (SONG.meta.name) {
         case "warmup" | "house" | "insanity" | "polygonized":
             introSounds = ['intro/dave/intro3_dave', 'intro/dave/intro2_dave', "intro/dave/intro1_dave", "intro/dave/introGo_dave"];
-        case "blocked" | "corn-theft" | "maze" | "shredder":
+        case "blocked" | "corn theft" | "maze" | "shredder":
             introSounds = ['intro/bambi/intro3_bambi', 'intro/bambi/intro2_bambi', "intro/bambi/intro1_bambi", "intro/bambi/introGo_bambi"];
     }
 
