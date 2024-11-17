@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-dialogue-character>
+<character x="-12" y="55" textSound="dialogue/trisDialogue">
+	<anim name="normal" anim="content" fps="0" />
+	<anim name="irritated" anim="irritated" fps="0" />
+	<anim name="sad" anim="sad" fps="0" />
+</character>

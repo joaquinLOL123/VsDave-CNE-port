@@ -1,9 +1,9 @@
 <!DOCTYPE codename-engine-dialogue-box>
-<dialoguebox x="-20" y="40">
+<dialoguebox x="-20" y="40" textSound="pixel/pixelText">
 	<!--
 		Node containing all text settings
 	-->
-	<text font="comic.ttf" x="240" y="235" width="1053" color="#000000" size="32"/>
+	<text font="comic.ttf" x="240" y="235" width="1053" color="#000000" size="32" />
 
 	<!--
 		All positions for characters

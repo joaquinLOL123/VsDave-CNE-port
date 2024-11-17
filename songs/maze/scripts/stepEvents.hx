@@ -9,8 +9,6 @@ final SPOTLIGHT_SCALE:Float = 1.3;
 var spotlight:FunkinSprite;
 var spotlightPart:Bool = false;
 
-
-
 function postCreate() {
     var sunsetSky:FunkinSprite = new FunkinSprite(-600, -200).loadGraphic(Paths.image("stages/shared/sky_sunset"));
     sunsetSky.scrollFactor.set(0.6, 0.6);

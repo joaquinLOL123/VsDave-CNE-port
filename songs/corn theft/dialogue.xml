@@ -1,0 +1,93 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+	<char name="boyfriend" char="boyfriend" position="right" />
+	<char name="gf" char="gf" position="right" />
+	<char name="bambi" char="bambi" position="left" />
+	<char name="dave" char="dave" position="left" />
+
+	<!-- Lines -->
+	<line char="bambi" changeDefAnim="annoyed" changeMusic="DaveDialogue">
+		Oh my focking god!
+	</line>
+	<line char="null">
+		INCOMING CALL FROM: DAVE
+	</line>
+	<line char="bambi" changeDefAnim="confused">
+		Huh? Hello?
+	</line>
+	<line char="dave" changeDefAnim="phone">
+		Hey Bambi, it's Dave...
+	</line>
+	<line char="bambi">
+		Why you tryna calling me?
+	</line>
+	<line char="dave">
+		Is there a chance you are currently fighting 
+		two equally as short "Trespassers" over corn 
+		right now?
+	</line>
+	<line char="bambi" changeDefAnim="annoyed">
+		Yes... Justifiably!
+	</line>
+	<line char="dave">
+		Bambi. They aren't trespassing.
+	</line>
+	<line char="bambi" changeDefAnim="confused">
+		What?
+	</line>
+	<line char="dave">
+		I literally told you beforehand I was planning 
+		on having a picnic with the two!
+	</line>
+	<line char="bambi">
+		That doesn't make sense...
+	</line>
+	<line char="dave">
+		Bambi, listen-
+	</line>
+	<line char="bambi" changeDefAnim="annoyed">
+		I think I know what's going on here!
+	</line>
+	<line char="bambi">
+		These aren't the friends you thought they were!
+	</line>
+	<line char="dave">
+		Bambi you've got to be kidding me-
+	</line>
+	<line>
+		HANG UP
+	</line>
+	<line char="bambi" changeDefAnim="normal">
+		Uhhh...
+	</line>
+	<line char="bambi">
+		Are you two using Dave invite as excuse to steal 
+		corn!?
+	</line>
+	<line char="gf" changeDefAnim="what">
+		That's not what we're trying to do at all!
+	</line>
+	<line char="boyfriend" changeDefAnim="confused">
+		Beep beep vroom vroom!
+	</line>
+	<line char="bambi">
+		Ok, you know what-
+	</line>
+	<line char="bambi">
+		Don't win this one... or... or...
+	</line>
+	<line char="bambi">
+		I'll break my phone!
+	</line>
+	<line char="bambi">
+		Yeah, I'll smash my phone and you'll get grounded!
+	</line>
+	<line char="boyfriend" changeDefAnim="confused">
+		Bop...
+	</line>
+	<line char="gf">
+		If that's what you consider a punishment you're 
+		a bit messed up in the head.
+	</line>
+</dialogue>

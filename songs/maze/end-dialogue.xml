@@ -1,0 +1,81 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+    <char name="boyfriend" char="boyfriend" position="right" />
+	<char name="gf" char="gf" position="right" />
+	<char name="bambi" char="bambi" position="left" />
+	<char name="dave" char="dave" position="left" />
+	<char name="tristan" char="tristan" position="left" />
+
+	<!-- Lines -->
+	<line char="bambi" changeDefAnim="upset" changeMusic="DaveDialogue">
+		Fine... You win..
+	</line>
+	<line char="boyfriend">
+		Yeah!
+	</line>
+	<line char="bambi">
+		Just, go away! Please.
+	</line>
+	<line char="null">
+		Dave comes out of the corn.
+	</line>
+	<line char="bambi" changeDefAnim="normal">
+		Oh shit!
+	</line>
+	<line char="dave">
+		Hey, I'm here. Sorry, I was running late.
+	</line>
+	<line char="dave" changeDefAnim="pissed">
+		Tristan was a pain to get up.
+	</line>
+	<line char="dave">
+		He was like "But Dave.." this, "But Dave.." that.
+	</line>
+	<line char="tristan" changeDefAnim="irritated">
+		Don't talk about me like I'm not here!
+	</line>
+	<line char="dave">
+		With all due respect, son, shut up.
+	</line>
+	<line char="bambi">
+		Oh. Ohhh, ohhhhhh!
+	</line>
+	<line char="bambi" changeDefAnim="annoyed">
+		So I BROKE MY PHONE FOR NO REASON!
+	</line>
+	<line char="gf" changeDefAnim="what">
+		And I have no idea why you thought that was a
+		good idea...
+	</line>
+	<line char="bambi" changeDefAnim="upset">
+		I'M SO STUPID!
+	</line>
+	<line char="dave" changeDefAnim="normal">
+		It's okay Bambi, everyone makes mistakes from
+		time to time!
+	</line>
+	<line char="dave" changeDefAnim="pissed">
+		Even very stupid mistakes that could've easily
+		been averted.
+	</line>
+	<line char="bambi" changeDefAnim="annoyed">
+		I see straight through your sarcasm!
+	</line>
+	<line char="gf">
+		Lets just get this picnic started.
+	</line>
+	<line char="tristan" changeDefAnim="normal">
+		That would be great!
+	</line>
+	<line char="boyfriend">
+		Beep!
+	</line>
+	<line char="null">
+		Everyone eventually settles down and has a 
+		picnic.
+	</line>
+	<line char="null">
+		To be continued...
+	</line>
+</dialogue>

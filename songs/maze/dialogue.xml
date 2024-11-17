@@ -1,0 +1,39 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+	<char name="gf" char="gf" position="right" />
+	<char name="bambi" char="bambi" position="left" />
+
+	<!-- Lines -->
+	<line char="bambi" changeDefAnim="upset" changeMusic="DaveDialogue">
+		My phone...
+	</line>
+	<line char="bambi">
+		Look what you two did!
+	</line>
+	<line char="bambi">
+		You don't know what you guys just got me into!!
+	</line>
+	<line char="bambi">
+		You both are gonna die!
+	</line>
+	<line char="gf" changeDefAnim="what">
+		I don't think you would wanna try that.
+	</line>
+	<line char="bambi" changeDefAnim="annoyed">
+		That's it.. That is it!
+	</line>
+	<line char="bambi" changeDefAnim="upset">
+		One more song... If you win, I-I, uhh..
+	</line>
+	<line char="bambi">
+		I think I'm gonna go to bed after this..
+	</line>
+	<line char="gf">
+		I assume yelling for like 6 minutes straight gets 
+        very exhausting.
+	</line>
+	<line char="bambi" changeDefAnim="annoyed">
+		It does not!
+	</line>
+</dialogue>
